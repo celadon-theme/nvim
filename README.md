@@ -7,6 +7,8 @@
 
 ---
 
+<p align="center"><img src="assets/celadon.png" alt="celadon in Neovim — treesitter lua, diagnostics, cursorline" width="880"></p>
+
 A sage-green theme family. Four variants, same slugs as every Celadon port:
 
 | variant | field |
